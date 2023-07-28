@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.quote-container {
+    background: skyblue;
+    margin: 15px 0;
+
+}
+
+.row .quote-content {
+    width: 80%
+}
+ .row a {
+    width: 20%;
+    text-align: center;
+    padding: 2% 0px;
+}
+
+ /*=================================================>> New Form Style  <<===========================================================  */
+
+.newform{
+    background: green;
+    border-radius: 5px;
+}
+.newform button{
+    background: rgb(59, 59, 59);
+    color: #fff;
+    border: none;
+}
+
+.newform button:hover{
+    background: rgb(69, 69, 69);
+    color: #fff;
+}
